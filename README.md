@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamvts6" alt="shubhamvts6" /></a> </p>
 
-- 👨‍💻 Some of my projects are available at [https://shubhamvats.netlify.app/](https://shubhamvats.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://shubhamvatsportfolio.netlify.app//](https://shubhamvatsportfolio.netlify.app//)
 
 - 📫 How to reach me **shubhamvts6@gmail.com**
 
